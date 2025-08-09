@@ -1,0 +1,4 @@
+.venv/
+myenv/
+output_excel/
+.env
